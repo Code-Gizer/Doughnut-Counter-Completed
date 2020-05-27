@@ -1,6 +1,6 @@
 # counter
 
-A new Flutter application.
+Sample Flutter application to learn about variables
 
 ## Getting Started
 
